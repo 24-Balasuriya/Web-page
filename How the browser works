@@ -1,0 +1,37 @@
+How Browser works
+URL ---> Uniform Resource Locator
+
+URL Formate:
+scheme://domain:port/path?query_string#fragment_id
+https://en.wikipedia.org/wiki/Electrical_engineering
+
+scheme (or) protocol ---> these are HTTP or HTTPS or FTP
+://    ---> separate scheme & rest of URL
+domain ---> name of the server
+port   ---> It allows to run multiple web services on a particular machine
+path   ---> path to the resource 
+query (optional)
+fragment_id (optional)
+
+When you click URL 
+->Hpertext protocol command gets called on
+->this command will be send across the network in search of the machine
+->that is given in the domain name
+->that machine will receive the request
+->then it takes the path of the domain to find the database where the resource file is located
+->then it will get the resouce file and return back to the server 
+->the browser will accept the file and display the page.
+
+How web page if formed?
+When you develop a website mainly we 
+  ->HTML
+    It gives the text content and structure of the web page
+  ->CSS (Cascading Style Sheet)
+    It determines the web page appearance
+    ...Appearance
+    ...Positioning
+    ...Font
+    ...Colour
+  ->JavaScript
+    It describes the behaviour of the web page.
+   
