@@ -22,8 +22,9 @@ When you click URL
 ->then it will get the resouce file and return back to the server 
 ->the browser will accept the file and display the page.
 
-How web page if formed?
-When you develop a website mainly we 
+How web page is formed?
+When you develop a website 
+3 things is mainly needed
   ->HTML
     It gives the text content and structure of the web page
   ->CSS (Cascading Style Sheet)
