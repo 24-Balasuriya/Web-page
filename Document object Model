@@ -1,0 +1,17 @@
+DOM - Document object Model
+
+What is DOM?
+   ->DOM represents the content of xml or html document as tree structure.
+   ->DOM is an programming interface or API used with any programming Languages especially javascript.
+   ->Using DOM easily read, access, update the contents of the document.
+
+Document  ---> file
+Object    ---> tag elements
+Model     ---> layout or structure
+
+  ->DOM is a programming interface for HTML and XML documents.
+  ->It is an object-oriented representation of the web page, which can be modified with a 
+   scripting language such as JavaScript.
+  ->Every web browser uses some document object model to make web pages accessible through JavaScript.
+  
+
